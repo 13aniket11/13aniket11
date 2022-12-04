@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://user-images.githubusercontent.com/57249574/185354478-7505e3da-efb5-4016-99d2-164f8edff33e.jpg" />
 
-# I'm Aniket a full time Android developer and Linux enthusiast👨🏻‍💻
+## I'm Aniket a full time Android developer and Linux enthusiast👨🏻‍💻
 
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
 
