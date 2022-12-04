@@ -11,6 +11,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> | <a href="aniketvyawahare.live">aniketvyawahare.live</a>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | <a href="mailto:vyawahareaniket2@gmail.com'">vyawahareaniket2@gmail.com</a>
 
+<img src="https://w0.peakpx.com/wallpaper/227/431/HD-wallpaper-pengu-dolls-mac-linux-window-penguin-smile-abstract-cute-sit-fantasy-simple-pc-animals-fat.jpg" />
+
 <!--
 **13aniket11/13aniket11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
