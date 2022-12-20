@@ -1,15 +1,42 @@
-### Hi there 👋
-<img src="https://user-images.githubusercontent.com/57249574/185354478-7505e3da-efb5-4016-99d2-164f8edff33e.jpg" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/57249574/185354478-7505e3da-efb5-4016-99d2-164f8edff33e.jpg" align="center" style="width: 100%" />
+</div>  
 
-## I'm Aniket a Android developer and Linux enthusiast👨🏻‍💻
+### <div align="center">I'm Aniket, a full-time Frontend developer 👨‍💻 </div>  
 
-## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
 
-Badge | URL
------------- | -------------
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> | <a href="https://www.linkedin.com/in/aniket-vyawahare-0660331a2">https://www.linkedin.com/in/aniket-vyawahare-0660331a2</a>
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> | <a href="aniketvyawahare.live">aniketvyawahare.live</a>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | <a href="mailto:vyawahareaniket2@gmail.com'">vyawahareaniket2@gmail.com</a>
+- 🔭 I’m currently Mentor of [Walchand Linux Users' Group](https://github.com/Walchand-Linux-Users-Group).  
+  
+
+- 🌱 I’m currently active in Competitive Programming.   
+  
+
+<br/>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=13aniket11&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/> 
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/13aniket11" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/AniketVya" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/aniketvyawahare" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=suyash-chavan&&style=flat-square" align="center" />
+</div>
 
 <img src="https://w0.peakpx.com/wallpaper/227/431/HD-wallpaper-pengu-dolls-mac-linux-window-penguin-smile-abstract-cute-sit-fantasy-simple-pc-animals-fat.jpg" />
 
