@@ -38,8 +38,6 @@
 <img src="https://komarev.com/ghpvc/?username=13aniket11&&style=flat-square" align="center" />
 </div>
 
-<img src="https://w0.peakpx.com/wallpaper/227/431/HD-wallpaper-pengu-dolls-mac-linux-window-penguin-smile-abstract-cute-sit-fantasy-simple-pc-animals-fat.jpg" />
-
 <!--
 **13aniket11/13aniket11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
