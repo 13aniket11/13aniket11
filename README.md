@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/57249574/185354478-7505e3da-efb5-4016-99d2-164f8edff33e.jpg" align="center" style="width: 100%" />
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/59722228/258893806-bf1950c4-2b4a-461a-9325-ece3d1d32817.png" align="center" style="width: 100%" />
 </div>  
 
 ### <div align="center">I'm Aniket, a full-time Frontend developer 👨‍💻 </div>  
